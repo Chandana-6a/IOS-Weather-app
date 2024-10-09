@@ -29,17 +29,17 @@ The Weather App is developed using the following technologies:
 
 
 <p align="center">
-  <img src="app ss/search.png" alt="Current Weather" width="29.75%" />
-  <img src="app ss/clearDay.png" alt="Current Weather" width="30%" />
-  <img src="app ss/clearDay2.png" alt="24-Hour Forecast" width="30%" />
+  <img src="App Screenshots/search.png" alt="Location Search Interface" width="29.75%" />
+  <img src="App Screenshots/clearDay.png" alt="Current Weather Day" width="30%" />
+  <img src="App Screenshots/clearDay2.png" alt="Current Weather" width="30%" />
 </p>
 
 ---
 
-#### 4. Current weather - clear night,&nbsp;&nbsp;&nbsp;&nbsp;5. Current weather - Raining,&nbsp;&nbsp;&nbsp;&nbsp;6. Current weather - Snowing
+#### 4. Current weather - clear night,&nbsp;&nbsp;&nbsp;&nbsp;5. Current weather - Rain,&nbsp;&nbsp;&nbsp;&nbsp;6. Current weather - Snow
 
 <p align="center">
-  <img src="app ss/clearNight.png" alt="7-Day Forecast" width="30.5%" />
-  <img src="app ss/rain.png" alt="Moon Phase" width="30%" />
-  <img src="app ss/snow.png" alt="Sunrise and Sunset" width="29.6%" />
+  <img src="App Screenshots/clearNight.png" alt="Current Weather Night" width="30.5%" />
+  <img src="App Screenshots/rain.png" alt="Current Weather Rain" width="30%" />
+  <img src="App Screenshots/snow.png" alt="Current Weather Snow" width="29.6%" />
 </p>
